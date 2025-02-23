@@ -9,6 +9,8 @@ public class Parent {
 	public void testrun() {
 		
 		System.out.println("I am here");
+		System.out.println("rahulshettyacademy");
+		System.out.println("selenium");
 		
 	}
 	@BeforeMethod
