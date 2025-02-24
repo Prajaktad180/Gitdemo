@@ -45,4 +45,27 @@ public class Parent {
 		
 		
 	}
+	@Test
+	public void login() {
+		
+		System.out.println("sign in");
+		System.out.println("login");
+		System.out.println("add to cart");
+		System.out.println("check product");
+		System.out.println("place order");
+		System.out.println("checkout");
+		System.out.println("pay");
+	}
+	@Test
+	public void login2() {
+		
+		System.out.println("sign in");
+		System.out.println("login");
+		System.out.println("add to cart");
+		System.out.println("check product");
+		System.out.println("place order");
+		System.out.println("checkout");
+		System.out.println("pay");
+	}
+	
 }
